@@ -1,4 +1,4 @@
-FROM jgoerzen/debian-base-security:stretch
+FROM jgoerzen/debian-base-apache:stretch
 
 RUN mv /usr/sbin/policy-rc.d.disabled /usr/sbin/policy-rc.d && \
     apt-get update && \
