@@ -1,7 +1,0 @@
-* jenkins-debian-glue for Docker, auto setup package
-
-Please see [[https://jenkins-debian-glue.org/][jenkins-debian-glue.org]]
-
-test
-
-=asdfasdf= code
